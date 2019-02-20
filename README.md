@@ -1,4 +1,4 @@
-### Udacity Nanodegree Program: Introduction to Python
-Python web scraping and data analysis
+### Udacity Nanodegree Program: Introduction to Python Programming
 
-This is my answer of a Udacity Nanodegree called Introduction to Python Programming.
+
+Python web scraping and data analysis
